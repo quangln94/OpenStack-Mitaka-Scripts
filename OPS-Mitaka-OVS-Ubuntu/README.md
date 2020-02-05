@@ -60,6 +60,9 @@ bash ctl-2-prepare.sh
 bash ctl-3.keystone.sh
 ```
 - Fix lỗi  cài keystone https://www.stackguy.com/archives/177
+https://ask.openstack.org/en/question/91592/mitaka-on-1604-xenial-and-mysqls-new-default-utf8mb4-charset/
+
+
 - Declare enviroment parameter
 ```sh
 source admin-openrc
