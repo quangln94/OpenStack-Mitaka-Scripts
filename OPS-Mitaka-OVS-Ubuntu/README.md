@@ -247,6 +247,3 @@ External Network: check
 user: cirros
 password: cubsin:)
 ```
-
-
-
