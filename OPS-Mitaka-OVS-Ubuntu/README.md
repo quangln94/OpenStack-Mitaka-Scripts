@@ -59,7 +59,7 @@ bash ctl-2-prepare.sh
 ```sh
 bash ctl-3.keystone.sh
 ```
-
+- Fix lỗi  cài keystone https://www.stackguy.com/archives/177
 - Declare enviroment parameter
 ```sh
 source admin-openrc
